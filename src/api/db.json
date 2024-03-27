@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100,
+      "tags": [
+        "supercars",
+        "dubai",
+        "fashion"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200,
+      "tags": [
+        "football",
+        "ronaldo",
+        "brand",
+        "popular"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Get some milk",
+      "tags": [
+        "supercars",
+        "dubai"
+      ]
+    }
+  ],
+  "tags": [
+    "supercars",
+    "dubai",
+    "fashion",
+    "football",
+    "ronaldo",
+    "brand",
+    "popular"
+  ]
+}
